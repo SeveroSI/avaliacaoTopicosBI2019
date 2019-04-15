@@ -40,6 +40,7 @@ Também deverá existir 3 ícones alinhados a direita referente ao feedback do u
 * Ao clicar no link de conversas, na terceira tela deverá exibir um modal, com um texto fictício.
 * Documentar através do README.md as intruções para execução do APP.
 * Interface gráfica bonita
+* Boa sorte
 
 
 ## Layout (Sugestivo)
