@@ -5,6 +5,7 @@
 * Cores livres, imagens livres
 * Criar uma API através do NodeJS que consuma a API do JSONPlaceholder.
 * Todas as rotas deverão ser criadas pelo NodeJS
+* Uso do Express
 * Usar o Git
 * Desenvolver um frontend que comunique com a API que você criou!
 
