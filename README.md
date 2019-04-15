@@ -37,6 +37,7 @@ Também deverá existir 3 ícones alinhados a direita referente ao feedback do u
 * Interface gráfica bonita
 
 
+## Layout (Sugestivo)
 https://www.figma.com/file/UJJvQdnEhx9Cs2rWRv0xbTg8/Avalia%C3%A7%C3%A3o-de-T%C3%B3picos-de-SI?node-id=0%3A1
 
 
