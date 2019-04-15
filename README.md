@@ -6,6 +6,7 @@
 * Criar uma API através do NodeJS que consuma a API do JSONPlaceholder.
 * Todas as rotas deverão ser criadas pelo NodeJS
 * Usar o Git
+* Desenvolver um frontend que comunique com a API que você criou!
 
 ## Especificações funcionais
 ### Tela inicial
@@ -33,6 +34,8 @@ Também deverá existir 3 ícones alinhados a direita referente ao feedback do u
 * Na tela de Lista de Fotos, os ícones que se referem ao feedback, deverá ser implementado uma algoritmo que adicione valores randômicos para cada um dos comportamentos do usuários.
 * Ao clicar no link de conversas, na terceira tela deverá exibir um modal, com um texto fictício.
 * Documentar através do README.md as intruções para execução do APP.
+* Interface gráfica bonita
+
 
 https://www.figma.com/file/UJJvQdnEhx9Cs2rWRv0xbTg8/Avalia%C3%A7%C3%A3o-de-T%C3%B3picos-de-SI?node-id=0%3A1
 
