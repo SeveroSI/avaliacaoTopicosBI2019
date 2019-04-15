@@ -30,6 +30,10 @@ Também deverá existir 3 ícones alinhados a direita referente ao feedback do u
 ## O que será avaliado
 * Organização do Projeto
 * Uso do Git
+* Utilizar a API do JSONPlaceHolder 
+* Criar uma API através do NodeJS que consuma a API do JSONPlaceholder.
+* Uso do Express
+
 
 ## Extra
 * Na tela de Lista de Fotos, os ícones que se referem ao feedback, deverá ser implementado uma algoritmo que adicione valores randômicos para cada um dos comportamentos do usuários.
